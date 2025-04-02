@@ -35,7 +35,7 @@ yarn install
 Once you run `npm run dev`, you're entering the world of the Wix CLI - hold your applause its basically react/typescript app development.
 
 ### What is the Wix CLI?
-The Wix CLI is a game-changing tool that creates a custom developement path for wix sites. Yo It's like having a personal assistant that handles the complex parts of Wix app creation.
+The Wix CLI is a game-changing tool that creates a custom developement path for wix sites. It's like having a personal assistant that handles the complex parts of Wix app creation.
 
 🔗 **[Official Documentation: Wix CLI for Apps](https://dev.wix.com/docs/build-apps/develop-your-app/frameworks/wix-cli/about-the-wix-cli-for-apps)**
 
