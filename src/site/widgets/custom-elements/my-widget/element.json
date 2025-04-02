@@ -1,0 +1,27 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/custom-element.json",
+  "id": "908b9244-7b6c-4b08-a916-fde56b2834f5",
+  "name": "My Widget",
+  "width": {
+    "defaultWidth": 450,
+    "allowStretch": true
+  },
+  "height": {
+    "defaultHeight": 250
+  },
+  "installation": {
+    "autoAddToSite": true
+  },
+  "behaviors": {
+    "dashboard": {
+      "dashboardPageComponentId": "afdfcdf5-2c06-4127-8100-45de91321243"
+    }
+  },
+  "presets": [
+    {
+      "id": "7cc4a0bb-31d7-471b-a223-a2ae5849a3a4",
+      "thumbnailUrl": "../../../../assets/my-widget/thumbnail.png"
+    }
+  ]
+}
+
