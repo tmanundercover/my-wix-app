@@ -27,6 +27,7 @@ yarn install
 ```
 
 ### 3. [Generate Unique UUID](scripts/README.md)
+#### NOTE: Do this or you will get a duplicate UUID error when you try to start the wix CLI
 
 ### 4. Copy the UUID and paste it into src/site/widgets/custom-elements/my-widget/element.json
 
@@ -107,7 +108,7 @@ This command provides options to generate various directory and file structures,
 [//]: # (3. Configure widget settings)
 
 ## Troubleshooting
-- Ensure UUID is unique
+- Ensure [UUID](scripts/README.md) is unique
 - Check Wix Studio compatibility
 - Verify TypeScript configurations
 
